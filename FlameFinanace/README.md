@@ -19,7 +19,8 @@ Provide a clear statement of the challenges/issues/problems/gaps your project en
 Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
 
 #### URLs
-List any URLs relevant to demonstrating your prototype
+Github : https://github.com/ahmadou5/Flamefinance-.git
+Dapp : 
 
 #### Presentation
 List any links to your presentation or any related visuals you want to share.
