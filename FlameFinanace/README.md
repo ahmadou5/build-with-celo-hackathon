@@ -20,7 +20,7 @@ Describe the basic functionality of your project. What are the features you were
 
 #### URLs
 Github : https://github.com/ahmadou5/Flamefinance-.git
-Dapp : 
+
 
 #### Presentation
 List any links to your presentation or any related visuals you want to share.
